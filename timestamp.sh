@@ -8,6 +8,6 @@ timestamp.now () (
 
 define timestamp.now
 
-public=$(
+public=(
     "timestamp.now"
 )
